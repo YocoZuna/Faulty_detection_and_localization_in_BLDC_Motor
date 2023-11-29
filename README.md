@@ -1,0 +1,2 @@
+# Faulty_detection_and_localization_in_BLDC_Motor
+ 
