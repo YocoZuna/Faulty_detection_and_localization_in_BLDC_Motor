@@ -1,0 +1,10 @@
+../Drivers/CMSIS/Include/core_cm7.h:2147:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../Core/Src/MPU6050.c:64:6:MPU6050_Init	40	static
+../Core/Src/MPU6050.c:130:13:MPU6050_Get_Gyro_RAW	40	static
+../Core/Src/MPU6050.c:156:13:MPU6050_Get_Acc_RAW	40	static
+../Core/Src/MPU6050.c:181:6:MPU6050_Get_Temp	40	static
+../Core/Src/MPU6050.c:191:6:MPU6050_Get_Acc_Value	48	static
+../Core/Src/MPU6050.c:219:6:MPU6050_Get_Gyro_Value	48	static
+../Core/Src/MPU6050.c:247:6:MPU6050_Get_Roll_Pitch	40	static
+../Core/Src/MPU6050.c:257:6:MPU6050_Burst_Read_Acc_Gyro_Read	32	static
+../Core/Src/MPU6050.c:266:6:MPU6050_Burst_Read_Acc_Gyro_Convert	40	static
